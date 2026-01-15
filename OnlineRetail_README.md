@@ -16,7 +16,7 @@ The analysis is framed around leadership-focused business questions commonly fac
 ---
 
 ## Dataset
-- **Source:** [Online Retail transactional dataset] (https://archive.ics.uci.edu/dataset/352/online%2Bretail?utm_source=chatgpt.com)
+- **Source:** https://archive.ics.uci.edu/dataset/352/online%2Bretail?utm_source=chatgpt.com
 - **Grain:** Invoice-level sales transactions
 - **Time Period:** 2010–2011
 - **Key Fields:** Invoice, Product, Quantity, Unit Price, Revenue, Date, Customer, Country
